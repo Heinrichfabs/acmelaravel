@@ -22,7 +22,7 @@
         <li><a href=""> About Us</a></li>
         <li><a href="">Latest News</a></li>
         <li><a href="">Consult Now!</a></li>
-        <li><a href="" class="logsign">LogIn/Signup</a></li>
+        <li><a href="{{ route('login') }}" class="logsign">LogIn/Signup</a></li>
     </ul>
 </nav>
 
